@@ -8,13 +8,13 @@ function GenTable() {
     
     if (rows < 2 || rows > 10 || isNaN(rows) == true) {
 
-        alert("Please enter a valid numbers between 2-10");
+        alert("Please enter a valid number between 2-10");
         return 0;
     }
 
     else if (columns < 2 || columns > 10 || isNaN(columns) == true) {
 
-        alert("Please enter a valid numbers between 2-10");
+        alert("Please enter a valid number between 2-10");
         return 0;
     }
 
