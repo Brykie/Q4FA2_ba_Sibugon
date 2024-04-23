@@ -1,0 +1,17 @@
+.cover {
+    text-align: center;
+    margin: auto; 
+    width: 80%; 
+}
+
+form {
+    display: inline-block; 
+}
+
+#table {
+    display: inline-block; 
+}
+
+td {
+    padding: 3px;
+}
